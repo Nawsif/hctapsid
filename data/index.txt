@@ -1,0 +1,397 @@
+uewasm-files 1 18874368
+4096	134389694390000000	0	/game/.__OST
+4096	134389694390000000	0	/game/._Dispatch
+4096	134389694300000000	1	/game/._Dispatch.exe
+4096	134389694390000000	0	/game/._Engine
+4096	134389694300000000	0	/game/._Manifest_NonUFSFiles_Win64.txt
+4096	134389694300000000	0	/game/_OST/._01 Mecha Man.mp3
+4096	134389694310000000	0	/game/_OST/._02 A Soothing Voice.mp3
+4096	134389694310000000	0	/game/_OST/._03 Steel Works.mp3
+4096	134389694310000000	0	/game/_OST/._04 Toxic.mp3
+4096	134389694310000000	0	/game/_OST/._05 Newscast.mp3
+4096	134389694310000000	0	/game/_OST/._06 Legacy Killer.mp3
+4096	134389694310000000	0	/game/_OST/._07 Skittles Gang.mp3
+4096	134389694310000000	0	/game/_OST/._08 Friends and Benefits.mp3
+4096	134389694310000000	0	/game/_OST/._09 Easier If We Fly.mp3
+4096	134389694320000000	0	/game/_OST/._10 Interface.mp3
+4096	134389694320000000	0	/game/_OST/._11 So You Can Rock.mp3
+4096	134389694320000000	0	/game/_OST/._12 Lana Works In the Mail Room.mp3
+4096	134389694320000000	0	/game/_OST/._13 Dossier Be Like.mp3
+4096	134389694320000000	0	/game/_OST/._14 Shift.mp3
+4096	134389694320000000	0	/game/_OST/._15 Maverick.mp3
+4096	134389694320000000	0	/game/_OST/._16 Slice of the Southland.mp3
+4096	134389694320000000	0	/game/_OST/._17 Gristle.mp3
+4096	134389694330000000	0	/game/_OST/._18 Grannys.mp3
+4096	134389694330000000	0	/game/_OST/._19 Twinks.mp3
+4096	134389694330000000	0	/game/_OST/._20 First Day.mp3
+4096	134389694330000000	0	/game/_OST/._21 The Tragic Passing.mp3
+4096	134389694330000000	0	/game/_OST/._22 Multi Versus.mp3
+4096	134389694330000000	0	/game/_OST/._23 What Kind of Hero.mp3
+4096	134389694330000000	0	/game/_OST/._24 Make the Man Mecha.mp3
+4096	134389694330000000	0	/game/_OST/._25 Cut.mp3
+4096	134389694330000000	0	/game/_OST/._26 Leaderboard.mp3
+4096	134389694330000000	0	/game/_OST/._27 Not Losing.mp3
+4096	134389694340000000	0	/game/_OST/._28 Phoenix.mp3
+4096	134389694340000000	0	/game/_OST/._29 Fvck The Stars.mp3
+4096	134389694340000000	0	/game/_OST/._30 Lights Out.mp3
+4096	134389694340000000	0	/game/_OST/._31 Dance (No Heroes).mp3
+4096	134389694340000000	0	/game/_OST/._32 Mode Selector.mp3
+4096	134389694340000000	0	/game/_OST/._33 Protopulse Test.mp3
+4096	134389694340000000	0	/game/_OST/._34 Brief Flash of Red.mp3
+4096	134389694340000000	0	/game/_OST/._35 Your Call is Very Important to Us.mp3
+4096	134389694350000000	0	/game/_OST/._36 Break Room Noodles.mp3
+4096	134389694350000000	0	/game/_OST/._37 Locker Room Talk.mp3
+4096	134389694350000000	0	/game/_OST/._38 Midnight Oil.mp3
+4096	134389694350000000	0	/game/_OST/._39 Not So Alone.mp3
+4096	134389694350000000	0	/game/_OST/._40 Mandy.mp3
+4096	134389694350000000	0	/game/_OST/._41 Like Friends.mp3
+4096	134389694350000000	0	/game/_OST/._42 Flashback.mp3
+4096	134389694350000000	0	/game/_OST/._43 Lana Delivers The Mail.mp3
+4096	134389694350000000	0	/game/_OST/._44 Intergalactic Convertable.mp3
+4096	134389694350000000	0	/game/_OST/._45 The Fire and The Flame.mp3
+4096	134389694350000000	0	/game/_OST/._46 The Day You Get Back In The Fight.mp3
+4096	134389694350000000	0	/game/_OST/._47 Protopulse Test, The Sequel.mp3
+4096	134389694360000000	0	/game/_OST/._48 Royds Doubt.mp3
+4096	134389694360000000	0	/game/_OST/._49 Lana Keeps Us Grounded.mp3
+4096	134389694360000000	0	/game/_OST/._50 Go Outside. Shut The Door.mp3
+4096	134389694360000000	0	/game/_OST/._51 Do or D.I..mp3
+4096	134389694360000000	0	/game/_OST/._52 Midnight Toil.mp3
+4096	134389694360000000	0	/game/_OST/._53 Save The Night.mp3
+4096	134389694360000000	0	/game/_OST/._54 When Its Over.mp3
+4096	134389694360000000	0	/game/_OST/._55 Chase and Robby.mp3
+4096	134389694360000000	0	/game/_OST/._56 Rougelike.mp3
+4096	134389694360000000	0	/game/_OST/._57 Breathe and Keep Up.mp3
+4096	134389694360000000	0	/game/_OST/._58 Summer of 03.mp3
+4096	134389694370000000	0	/game/_OST/._59 Keep Up.mp3
+4096	134389694370000000	0	/game/_OST/._60 Tokimeki (slomo).mp3
+4096	134389694370000000	0	/game/_OST/._61 What Does It Take.mp3
+4096	134389694370000000	0	/game/_OST/._62 That Night.mp3
+4096	134389694370000000	0	/game/_OST/._63 Rob and Courtney.mp3
+4096	134389694370000000	0	/game/_OST/._64 In the Wet.mp3
+4096	134389694370000000	0	/game/_OST/._65 The Fear In His Eyes.mp3
+4096	134389694370000000	0	/game/_OST/._66 War in LA.mp3
+4096	134389694370000000	0	/game/_OST/._67 Mr. Whiskey.mp3
+4096	134389694370000000	0	/game/_OST/._68 Heroes Offline.mp3
+4096	134389694370000000	0	/game/_OST/._69 Heroes Online.mp3
+4096	134389694380000000	0	/game/_OST/._70 The Siege.mp3
+4096	134389694380000000	0	/game/_OST/._71 Coupé.mp3
+4096	134389694380000000	0	/game/_OST/._72 Sonar.mp3
+4096	134389694380000000	0	/game/_OST/._73 Special Moves.mp3
+4096	134389694380000000	0	/game/_OST/._74 Red Ring of Death.mp3
+4096	134389694380000000	0	/game/_OST/._75 A Reckoning.mp3
+4096	134389694380000000	0	/game/_OST/._76 Shift_Z.mp3
+4096	134389694390000000	0	/game/_OST/._77 Webs.mp3
+2809482	134371254020000000	0	/game/_OST/01 Mecha Man.mp3
+4405050	134371254020000000	0	/game/_OST/02 A Soothing Voice.mp3
+8464462	134371254020000000	0	/game/_OST/03 Steel Works.mp3
+12762898	134371254020000000	0	/game/_OST/04 Toxic.mp3
+2917192	134371254020000000	0	/game/_OST/05 Newscast.mp3
+3445682	134371254020000000	0	/game/_OST/06 Legacy Killer.mp3
+3491844	134371254020000000	0	/game/_OST/07 Skittles Gang.mp3
+1893554	134371254020000000	0	/game/_OST/08 Friends and Benefits.mp3
+5705480	134371254020000000	0	/game/_OST/09 Easier If We Fly.mp3
+6138161	134371254020000000	0	/game/_OST/10 Interface.mp3
+1939831	134371254020000000	0	/game/_OST/11 So You Can Rock.mp3
+4788367	134371254020000000	0	/game/_OST/12 Lana Works In the Mail Room.mp3
+8580967	134371254020000000	0	/game/_OST/13 Dossier Be Like.mp3
+5635715	134371254020000000	0	/game/_OST/14 Shift.mp3
+4417671	134371254020000000	0	/game/_OST/15 Maverick.mp3
+8861781	134371254020000000	0	/game/_OST/16 Slice of the Southland.mp3
+4333909	134371254020000000	0	/game/_OST/17 Gristle.mp3
+7750071	134371254020000000	0	/game/_OST/18 Grannys.mp3
+5341909	134371254020000000	0	/game/_OST/19 Twinks.mp3
+5488123	134371254020000000	0	/game/_OST/20 First Day.mp3
+3700909	134371254020000000	0	/game/_OST/21 The Tragic Passing.mp3
+3728785	134371254020000000	0	/game/_OST/22 Multi Versus.mp3
+2855051	134371254020000000	0	/game/_OST/23 What Kind of Hero.mp3
+2708941	134371254020000000	0	/game/_OST/24 Make the Man Mecha.mp3
+1733983	134371254020000000	0	/game/_OST/25 Cut.mp3
+10633823	134371254020000000	0	/game/_OST/26 Leaderboard.mp3
+3013437	134371254020000000	0	/game/_OST/27 Not Losing.mp3
+3331383	134371254020000000	0	/game/_OST/28 Phoenix.mp3
+3274167	134371254020000000	0	/game/_OST/29 Fvck The Stars.mp3
+9054139	134371254020000000	0	/game/_OST/30 Lights Out.mp3
+7588653	134371254020000000	0	/game/_OST/31 Dance (No Heroes).mp3
+5754483	134371254020000000	0	/game/_OST/32 Mode Selector.mp3
+2814727	134371254020000000	0	/game/_OST/33 Protopulse Test.mp3
+5701645	134371254020000000	0	/game/_OST/34 Brief Flash of Red.mp3
+9466123	134371254020000000	0	/game/_OST/35 Your Call is Very Important to Us.mp3
+2970349	134371254020000000	0	/game/_OST/36 Break Room Noodles.mp3
+5819913	134371254020000000	0	/game/_OST/37 Locker Room Talk.mp3
+7251289	134371254020000000	0	/game/_OST/38 Midnight Oil.mp3
+2794273	134371254020000000	0	/game/_OST/39 Not So Alone.mp3
+3811427	134371254020000000	0	/game/_OST/40 Mandy.mp3
+6052201	134371254020000000	0	/game/_OST/41 Like Friends.mp3
+5591736	134371254020000000	0	/game/_OST/42 Flashback.mp3
+1797698	134371254020000000	0	/game/_OST/43 Lana Delivers The Mail.mp3
+10272440	134371254020000000	0	/game/_OST/44 Intergalactic Convertable.mp3
+3356354	134371254020000000	0	/game/_OST/45 The Fire and The Flame.mp3
+3139752	134371254020000000	0	/game/_OST/46 The Day You Get Back In The Fight.mp3
+6232572	134371254020000000	0	/game/_OST/47 Protopulse Test, The Sequel.mp3
+2543548	134371254020000000	0	/game/_OST/48 Royds Doubt.mp3
+2247890	134371254020000000	0	/game/_OST/49 Lana Keeps Us Grounded.mp3
+3007066	134371254020000000	0	/game/_OST/50 Go Outside. Shut The Door.mp3
+6376442	134371254020000000	0	/game/_OST/51 Do or D.I..mp3
+3542192	134371254020000000	0	/game/_OST/52 Midnight Toil.mp3
+2124514	134371254020000000	0	/game/_OST/53 Save The Night.mp3
+6553376	134371254020000000	0	/game/_OST/54 When Its Over.mp3
+5592166	134371254020000000	0	/game/_OST/55 Chase and Robby.mp3
+6573226	134371254020000000	0	/game/_OST/56 Rougelike.mp3
+3882654	134371254020000000	0	/game/_OST/57 Breathe and Keep Up.mp3
+1481796	134371254020000000	0	/game/_OST/58 Summer of 03.mp3
+2307242	134371254020000000	0	/game/_OST/59 Keep Up.mp3
+8444552	134371254020000000	0	/game/_OST/60 Tokimeki (slomo).mp3
+3223308	134371254020000000	0	/game/_OST/61 What Does It Take.mp3
+4186606	134371254020000000	0	/game/_OST/62 That Night.mp3
+2373970	134371254020000000	0	/game/_OST/63 Rob and Courtney.mp3
+3945836	134371254020000000	0	/game/_OST/64 In the Wet.mp3
+11313762	134371254020000000	0	/game/_OST/65 The Fear In His Eyes.mp3
+4920620	134371254020000000	0	/game/_OST/66 War in LA.mp3
+2635824	134371254020000000	0	/game/_OST/67 Mr. Whiskey.mp3
+10545606	134371254020000000	0	/game/_OST/68 Heroes Offline.mp3
+8570692	134371254020000000	0	/game/_OST/69 Heroes Online.mp3
+16461932	134371254020000000	0	/game/_OST/70 The Siege.mp3
+5882100	134371254020000000	0	/game/_OST/71 Coupé.mp3
+5847876	134371254020000000	0	/game/_OST/72 Sonar.mp3
+2488804	134371254020000000	0	/game/_OST/73 Special Moves.mp3
+4853484	134371254020000000	0	/game/_OST/74 Red Ring of Death.mp3
+14091888	134371254020000000	0	/game/_OST/75 A Reckoning.mp3
+4902136	134371254020000000	0	/game/_OST/76 Shift_Z.mp3
+8822674	134371254020000000	0	/game/_OST/77 Webs.mp3
+4096	134389694390000000	0	/game/Dispatch/._Binaries
+4096	134389694390000000	0	/game/Dispatch/._Content
+4096	134389694390000000	0	/game/Dispatch/._Plugins
+4096	134389694390000000	0	/game/Dispatch/Binaries/._Win64
+4096	134389691080000000	1	/game/Dispatch/Binaries/Win64/._Dispatch-Win64-Shipping.exe
+4096	134389691090000000	0	/game/Dispatch/Binaries/Win64/._Dispatch-Win64-Shipping.rne
+4096	134389691090000000	1	/game/Dispatch/Binaries/Win64/._steam_api64.dll
+4096	134389691090000000	0	/game/Dispatch/Binaries/Win64/._steam_api64.rne
+4096	134389691090000000	0	/game/Dispatch/Binaries/Win64/._steam_emu.ini
+73635840	134371254020000000	1	/game/Dispatch/Binaries/Win64/Dispatch-Win64-Shipping.exe
+73869896	134371254020000000	0	/game/Dispatch/Binaries/Win64/Dispatch-Win64-Shipping.rne
+1068696	134352157340000000	1	/game/Dispatch/Binaries/Win64/steam_api64.dll
+265504	134056297960000000	0	/game/Dispatch/Binaries/Win64/steam_api64.rne
+3023	134381982010000000	0	/game/Dispatch/Binaries/Win64/steam_emu.ini
+4096	134389694390000000	0	/game/Dispatch/Content/._FMOD
+4096	134389694390000000	0	/game/Dispatch/Content/._Paks
+4096	134389694390000000	0	/game/Dispatch/Content/FMOD/._Desktop
+4096	134389691100000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep101Cinematics.bank
+4096	134389691110000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep101DevCommentary.bank
+4096	134389691110000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep101Music.bank
+4096	134389691110000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep102Barks.bank
+4096	134389691120000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep102Cinematics.bank
+4096	134389691130000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep102DevCommentary.bank
+4096	134389691130000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep102Music.bank
+4096	134389691130000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep103Barks.bank
+4096	134389691140000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep103Cinematics.bank
+4096	134389691150000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep103DevCommentary.bank
+4096	134389691160000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep103Music.bank
+4096	134389691160000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep104Barks.bank
+4096	134389691170000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep104Cinematics.bank
+4096	134389691180000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep104DevCommentary.bank
+4096	134389691190000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep104Music.bank
+4096	134389691190000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep105Barks.bank
+4096	134389691200000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep105Cinematics.bank
+4096	134389691210000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep105DevCommentary.bank
+4096	134389691220000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep105Music.bank
+4096	134389691220000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep106Barks.bank
+4096	134389691230000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep106Cinematics.bank
+4096	134389691240000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep106DevCommentary.bank
+4096	134389691250000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep106Music.bank
+4096	134389691250000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep107Barks.bank
+4096	134389691260000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep107Cinematics.bank
+4096	134389691270000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep107DevCommentary.bank
+4096	134389691270000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep107Music.bank
+4096	134389691280000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep108Barks.bank
+4096	134389691300000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep108Cinematics.bank
+4096	134389691310000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep108DevCommentary.bank
+4096	134389691320000000	0	/game/Dispatch/Content/FMOD/Desktop/._Ep108Music.bank
+4096	134389691320000000	0	/game/Dispatch/Content/FMOD/Desktop/._Master.bank
+4096	134389691320000000	0	/game/Dispatch/Content/FMOD/Desktop/._Master.strings.bank
+4096	134389691330000000	0	/game/Dispatch/Content/FMOD/Desktop/._SharedDevCommentary.bank
+4096	134389691330000000	0	/game/Dispatch/Content/FMOD/Desktop/._SharedMusic.bank
+4096	134389691330000000	0	/game/Dispatch/Content/FMOD/Desktop/._SharedSFX.bank
+4096	134389691330000000	0	/game/Dispatch/Content/FMOD/Desktop/._SharedShiftVO.bank
+4096	134389691330000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift01SFX.bank
+4096	134389691330000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift01VO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift03AVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift03BVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift04AVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift04BVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift05AVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift05BVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift05SFX.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift06VO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift07VO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift08aVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift08bVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift08cVO.bank
+4096	134389691340000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift08SFX.bank
+4096	134389691350000000	0	/game/Dispatch/Content/FMOD/Desktop/._Shift2VO.bank
+82349344	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep101Cinematics.bank
+62813824	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep101DevCommentary.bank
+40124000	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep101Music.bank
+19680	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep102Barks.bank
+68619232	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep102Cinematics.bank
+55069664	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep102DevCommentary.bank
+37302208	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep102Music.bank
+1831360	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep103Barks.bank
+64995552	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep103Cinematics.bank
+53919264	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep103DevCommentary.bank
+39222080	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep103Music.bank
+7594944	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep104Barks.bank
+70907264	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep104Cinematics.bank
+73338528	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep104DevCommentary.bank
+53116096	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep104Music.bank
+9575744	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep105Barks.bank
+85769248	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep105Cinematics.bank
+46228928	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep105DevCommentary.bank
+67777792	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep105Music.bank
+9716128	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep106Barks.bank
+72445216	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep106Cinematics.bank
+45387136	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep106DevCommentary.bank
+37199232	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep106Music.bank
+8136736	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep107Barks.bank
+88813984	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep107Cinematics.bank
+50453792	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep107DevCommentary.bank
+39735040	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep107Music.bank
+15098944	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep108Barks.bank
+136117312	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep108Cinematics.bank
+91655072	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep108DevCommentary.bank
+72935360	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Ep108Music.bank
+16774976	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Master.bank
+340758	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Master.strings.bank
+13353344	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/SharedDevCommentary.bank
+614208	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/SharedMusic.bank
+12934624	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/SharedSFX.bank
+23112864	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/SharedShiftVO.bank
+494	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift01SFX.bank
+4266048	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift01VO.bank
+6966688	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift03AVO.bank
+4826560	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift03BVO.bank
+4883776	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift04AVO.bank
+7464320	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift04BVO.bank
+5477920	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift05AVO.bank
+4533440	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift05BVO.bank
+448000	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift05SFX.bank
+7318752	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift06VO.bank
+3995232	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift07VO.bank
+4507200	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift08aVO.bank
+6502112	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift08bVO.bank
+1820096	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift08cVO.bank
+100064	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift08SFX.bank
+6437152	134371254020000000	0	/game/Dispatch/Content/FMOD/Desktop/Shift2VO.bank
+4096	134389691430000000	0	/game/Dispatch/Content/Paks/._pakchunk0-WindowsNoEditor.pak
+4096	134389691540000000	0	/game/Dispatch/Content/Paks/._pakchunk1-WindowsNoEditor.pak
+4096	134389691550000000	0	/game/Dispatch/Content/Paks/._pakchunk10-WindowsNoEditor.pak
+4096	134389692640000000	0	/game/Dispatch/Content/Paks/._pakchunk100-WindowsNoEditor.pak
+4096	134389692850000000	0	/game/Dispatch/Content/Paks/._pakchunk11-WindowsNoEditor.pak
+4096	134389692870000000	0	/game/Dispatch/Content/Paks/._pakchunk12-WindowsNoEditor.pak
+4096	134389693060000000	0	/game/Dispatch/Content/Paks/._pakchunk13-WindowsNoEditor.pak
+4096	134389693060000000	0	/game/Dispatch/Content/Paks/._pakchunk14-WindowsNoEditor.pak
+4096	134389693240000000	0	/game/Dispatch/Content/Paks/._pakchunk15-WindowsNoEditor.pak
+4096	134389693260000000	0	/game/Dispatch/Content/Paks/._pakchunk16-WindowsNoEditor.pak
+4096	134389693880000000	0	/game/Dispatch/Content/Paks/._pakchunk17-WindowsNoEditor.pak
+4096	134389693880000000	0	/game/Dispatch/Content/Paks/._pakchunk18-WindowsNoEditor.pak
+4096	134389693880000000	0	/game/Dispatch/Content/Paks/._pakchunk2-WindowsNoEditor.pak
+4096	134389694040000000	0	/game/Dispatch/Content/Paks/._pakchunk3-WindowsNoEditor.pak
+4096	134389694070000000	0	/game/Dispatch/Content/Paks/._pakchunk4-WindowsNoEditor.pak
+4096	134389694130000000	0	/game/Dispatch/Content/Paks/._pakchunk5-WindowsNoEditor.pak
+4096	134389694130000000	0	/game/Dispatch/Content/Paks/._pakchunk6-WindowsNoEditor.pak
+4096	134389694250000000	0	/game/Dispatch/Content/Paks/._pakchunk7-WindowsNoEditor.pak
+4096	134389694260000000	0	/game/Dispatch/Content/Paks/._pakchunk8-WindowsNoEditor.pak
+4096	134389694300000000	0	/game/Dispatch/Content/Paks/._pakchunk9-WindowsNoEditor.pak
+485235655	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk0-WindowsNoEditor.pak
+721815259	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk1-WindowsNoEditor.pak
+22123143	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk10-WindowsNoEditor.pak
+8020797750	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk100-WindowsNoEditor.pak
+1657583836	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk11-WindowsNoEditor.pak
+101947143	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk12-WindowsNoEditor.pak
+1434742247	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk13-WindowsNoEditor.pak
+27281921	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk14-WindowsNoEditor.pak
+1344501191	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk15-WindowsNoEditor.pak
+156471671	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk16-WindowsNoEditor.pak
+4566501895	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk17-WindowsNoEditor.pak
+216959	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk18-WindowsNoEditor.pak
+17895591	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk2-WindowsNoEditor.pak
+1173253991	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk3-WindowsNoEditor.pak
+167892855	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk4-WindowsNoEditor.pak
+917097623	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk5-WindowsNoEditor.pak
+31109191	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk6-WindowsNoEditor.pak
+912686119	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk7-WindowsNoEditor.pak
+132958311	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk8-WindowsNoEditor.pak
+725355136	134371254020000000	0	/game/Dispatch/Content/Paks/pakchunk9-WindowsNoEditor.pak
+4096	134389694390000000	0	/game/Dispatch/Plugins/._FMODStudio
+4096	134389694390000000	0	/game/Dispatch/Plugins/FMODStudio/._Binaries
+4096	134389694390000000	0	/game/Dispatch/Plugins/FMODStudio/Binaries/._Win64
+4096	134389694300000000	1	/game/Dispatch/Plugins/FMODStudio/Binaries/Win64/._fmod.dll
+4096	134389694300000000	1	/game/Dispatch/Plugins/FMODStudio/Binaries/Win64/._fmodstudio.dll
+1863680	134371254020000000	1	/game/Dispatch/Plugins/FMODStudio/Binaries/Win64/fmod.dll
+1531904	134371254020000000	1	/game/Dispatch/Plugins/FMODStudio/Binaries/Win64/fmodstudio.dll
+288768	134371254020000000	1	/game/Dispatch.exe
+4096	134389694390000000	0	/game/Engine/._Binaries
+4096	134389694390000000	0	/game/Engine/._Extras
+4096	134389694390000000	0	/game/Engine/Binaries/._ThirdParty
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/._DbgHelp
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/._NVIDIA
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/._Ogg
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/._PhysX3
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/._Steamworks
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/._Vorbis
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/._Windows
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/DbgHelp/._dbghelp.dll
+1868736	134371254020000000	1	/game/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/NVIDIA/._GeForceNOW
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/NVIDIA/._NVaftermath
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/._Win64
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/._GfnRuntimeSdk.dll
+3212640	134371254020000000	1	/game/Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/._Win64
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/._GFSDK_Aftermath_Lib.x64.dll
+1425920	134371254020000000	1	/game/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/Ogg/._Win64
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/Ogg/Win64/._VS2015
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/._libogg_64.dll
+49152	134371254020000000	1	/game/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/PhysX3/._Win64
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/._VS2015
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._APEX_Clothing_x64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._APEX_Legacy_x64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._ApexFramework_x64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._NvCloth_x64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._PhysX3_x64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._PhysX3Common_x64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._PhysX3Cooking_x64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._PxFoundation_x64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/._PxPvdSDK_x64.dll
+1219072	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.dll
+3329536	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll
+1043968	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.dll
+265728	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll
+2105344	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll
+1598976	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll
+244736	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll
+54784	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll
+188928	134371254020000000	1	/game/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/Steamworks/._Steamv151
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/Steamworks/Steamv151/._Win64
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/Steamworks/Steamv151/Win64/._steam_api64.dll
+4096	134389694300000000	0	/game/Engine/Binaries/ThirdParty/Steamworks/Steamv151/Win64/._steam_api64.rne
+4096	134389694300000000	0	/game/Engine/Binaries/ThirdParty/Steamworks/Steamv151/Win64/._steam_emu.ini
+1068696	134352157340000000	1	/game/Engine/Binaries/ThirdParty/Steamworks/Steamv151/Win64/steam_api64.dll
+265504	134056297960000000	0	/game/Engine/Binaries/ThirdParty/Steamworks/Steamv151/Win64/steam_api64.rne
+3023	134381982010000000	0	/game/Engine/Binaries/ThirdParty/Steamworks/Steamv151/Win64/steam_emu.ini
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/Vorbis/._Win64
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/Vorbis/Win64/._VS2015
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/._libvorbis_64.dll
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/._libvorbisfile_64.dll
+1714176	134371254020000000	1	/game/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll
+37888	134371254020000000	1	/game/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/Windows/._XAudio2_9
+4096	134389694390000000	0	/game/Engine/Binaries/ThirdParty/Windows/XAudio2_9/._x64
+4096	134389694300000000	1	/game/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/._xaudio2_9redist.dll
+847440	134371254020000000	1	/game/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll
+4096	134389694390000000	0	/game/Engine/Extras/._Redist
+4096	134389694390000000	0	/game/Engine/Extras/Redist/._en-us
+5914	134371254020000000	0	/game/Manifest_NonUFSFiles_Win64.txt
+94896128	134391057840000000	0	/image.bin
